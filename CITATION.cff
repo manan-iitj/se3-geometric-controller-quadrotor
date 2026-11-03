@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the original paper."
+title: "Geometric Tracking Control of a Quadrotor UAV on SE(3) — MATLAB Reproduction"
+authors:
+  - family-names: Jain
+    given-names: Manan
+repository-code: "https://github.com/mananIITJ/geometric-controller-quadrotor-se3"
+license: MIT
+references:
+  - type: article
+    title: "Geometric Tracking Control of a Quadrotor UAV on SE(3)"
+    authors:
+      - family-names: Lee
+        given-names: Taeyoung
+      - family-names: Leok
+        given-names: Melvin
+      - family-names: McClamroch
+        given-names: N. Harris
+    conference:
+      name: "IEEE Conference on Decision and Control (CDC)"
+    year: 2010
